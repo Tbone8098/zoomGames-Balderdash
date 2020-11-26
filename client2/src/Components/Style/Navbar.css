@@ -1,0 +1,11 @@
+.Navbar {
+    padding: 0 3rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 2px 2px 15px black;
+}
+
+.score {
+    font-size: xx-large;
+}
